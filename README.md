@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhegebi20
+- 👋 Hi, I’m @muhegebi
 - 👀 I’m interested in coding
 - ✌️ I have atleast intermediate level html and css knowledge
 - 🌱 I’m currently learning js and nodejs
