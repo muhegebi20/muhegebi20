@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Muhammedamin, a passionate **backend developer** and **student** currently pursuing my studies at ABC University. I enjoy building innovative solutions and learning new technologies to expand my skill set.
+I'm Muhammedamin, a passionate **backend developer** and **student** currently pursuing my studies at Uludag University. Enjoy building innovative solutions and learning new technologies to expand my skill set.
 
 ## 🛠️ Skills and Tools:
 - **Languages**: JavaScript, Python, C#
@@ -18,4 +18,4 @@ I'm Muhammedamin, a passionate **backend developer** and **student** currently p
 
 ## 💬 Connect with Me:
 - LinkedIn: [http://www.linkedin.com/in/muhammedamin-s-609a08222](#)
-- Email: muhegebi2021@gmail.com(#)
+- Email: [muhegebi2021@gmail.com](#)
