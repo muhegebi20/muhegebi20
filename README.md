@@ -9,7 +9,7 @@ I'm Muhammedamin, a passionate **backend developer** and **student** currently p
 - **Tools**: Git, GitHub
 
 ## 🚀 Projects:
-- [**iBlog**](#): A personal blogging platform 
+- [**iBlog**](https://github.com/muhegebi20/Iblog_website): A personal blogging platform 
 - [**EgeReef Website**](#): A site to support Egereef
 
 ## 📊 GitHub Stats:
