@@ -9,6 +9,7 @@ I'm Muhammedamin, a passionate **backend developer** and **student** currently p
 - **Tools**: Git, GitHub
 
 ## 🚀 Projects:
+- [**CDC_Project**](https://github.com/muhegebi20/CDC_Project): Change Data Capture system using PostgreSQL triggers and Python polling mechanism.
 - [**iBlog**](https://github.com/muhegebi20/Iblog_website): A personal blogging platform 
 - [**EgeReef Website**](https://github.com/muhegebi20/egereef-website): A site to support Egereef
 
