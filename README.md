@@ -4,7 +4,8 @@ I'm Muhammedamin, a passionate **backend developer** and **student** currently p
 
 ## 🛠️ Skills and Tools:
 - **Languages**: JavaScript, Python, C#
-- **Frameworks**: Node.js, Express, Pandas, Matplotlib, Scikit-learn
+- **Frameworks**: ASP.NET CORE, Entity Framework, Node.js, Express, Angular
+- **Libraries: ReactJs, 
 - **Databases**: MongoDB
 - **Tools**: Git, GitHub
 
