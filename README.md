@@ -5,9 +5,9 @@ I'm Muhammedamin, a passionate **backend developer** and **student** currently p
 ## 🛠️ Skills and Tools:
 - **Languages**: C#, JavaScript, Python
 - **Frameworks**: ASP.NET CORE, Entity Framework, Node.js, Express, Angular
-- **Libraries: ReactJs, 
-- **Databases**: MongoDB
-- **Tools**: Git, GitHub
+- **Libraries**: ReactJs, 
+- **Databases**: SQL Server, SQLite, Postgresql, MongoDB
+- **Tools**: Git, GitHub, Docker
 
 ## 🚀 Projects:
 - [**CDC_Project**](https://github.com/muhegebi20/CDC_Project): Change Data Capture system using PostgreSQL triggers and Python polling mechanism.
