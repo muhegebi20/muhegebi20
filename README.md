@@ -3,7 +3,7 @@
 I'm Muhammedamin, a passionate **backend developer** and **student** currently pursuing my studies at Uludag University. Enjoy building innovative solutions and learning new technologies to expand my skill set.
 
 ## 🛠️ Skills and Tools:
-- **Languages**: JavaScript, Python, C#
+- **Languages**: C#, JavaScript, Python
 - **Frameworks**: ASP.NET CORE, Entity Framework, Node.js, Express, Angular
 - **Libraries: ReactJs, 
 - **Databases**: MongoDB
